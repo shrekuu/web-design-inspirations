@@ -31,5 +31,15 @@
 - [Community components using Tailwind CSS](https://tailwindcomponents.com/)
 
 
+## Still want to build your own design system?
+
+- [Design system checklist](https://www.designsystemchecklist.com/)
+- [Design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [Create design system guide](https://www.uxpin.com/create-design-system-guide/)(uxpin.com)
+
+
+<br/>
+<br/>
+<br/>
 
 <img width="1333" alt="image" src="https://user-images.githubusercontent.com/3136026/208117415-b380f10b-6315-4c74-948b-f86f5302d274.png">
