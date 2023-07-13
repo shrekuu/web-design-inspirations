@@ -1,4 +1,4 @@
-# Web Design Inspiration
+# Web Design Inspirations
 
 ## Nice design screenshots
 
