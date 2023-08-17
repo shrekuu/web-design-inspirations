@@ -2,7 +2,7 @@
 
 ## Nice design screenshots
 
-- I collect nice design ideas and keep them in my issues.
+- I collect nice design ideas and lock them in my dungeon.
 - By "nice", I mean: usable, easy to use, intuitive, predictable(common), natural, beautiful and elegant.
 - [Explore now](https://github.com/shrekuu/web-design-inspiration/issues).
 
